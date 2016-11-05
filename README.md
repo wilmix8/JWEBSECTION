@@ -4,7 +4,7 @@
 JWEBSECTION  is  about  JDollarSharp  and  J2ee1.0  Programming Language  based on  java/j2ee.
 
 
-A)J2ee1.0 Programming Langauage
+A) J2ee1.0 Programming Langauage
 =================================
 J2EE1.0 is designed by wilmix jemin j at year 2016 in JDollar P.L.
 
@@ -18,8 +18,10 @@ J2ee1.0 is published in Github code is VERSION 1
 
 and it will work only in windows.
 
-b)JDollarSHARP Programming Language
- =================================== 
+
+
+b) JDollarSHARP Programming Language
+ ======================================= 
 
 JDollarsharp is invented in JDollar and here we use JAVA runtime.
 
