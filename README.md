@@ -1,7 +1,7 @@
 # JWEBSECTION
 ==============
 
-JWEBSECTION  is  about  WEBSharp  and  J2ee1.0  Programming Language  based on  java/j2ee.
+JWEBSECTION  is  about  WEBSharp  and  J2ee1.0  Programming Language  based on  Oak(JAVA7).
 
 
 A) J2ee1.0 Programming Langauage
@@ -23,7 +23,7 @@ and it will work only in windows.
 b) WEBSHARP Programming Language
  ======================================= 
 
-WEBsharp is invented in JAS and here we use JAVA runtime.
+WEBsharp is invented in JAS and here we use (OAK)JAVA7 runtime.
 
 WEBsharp is part of JWEB section.
 
